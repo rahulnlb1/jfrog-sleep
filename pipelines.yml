@@ -5,4 +5,4 @@ pipelines:
        type: Bash
        execution:
          onExecute:
-           - sleep 1m
+           - sleep 10s

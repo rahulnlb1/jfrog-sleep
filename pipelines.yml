@@ -5,4 +5,4 @@ pipelines:
        type: Bash
        execution:
          onExecute:
-           - sleep 10s
+           - echo "hello world"

@@ -5,4 +5,4 @@ pipelines:
        type: Bash
        execution:
          onExecute:
-           - echo "hello world"
+           - echo "hello test world"
